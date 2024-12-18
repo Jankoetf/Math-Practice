@@ -15,6 +15,6 @@ Aviator game calculation and simulation with statistical tests
 
 - simulation and statistical tests
 
-🐍[Tests](https://github.com/Jankoetf/Math-Practice/blob/main/StatisticalTests.xslx)
+🐍[Tests](https://github.com/Jankoetf/Math-Practice/blob/main/StatisticalTests.xlsx)
 
 <img src="Pictures/stats.png" alt="Alt Text" width="512" height="290">
