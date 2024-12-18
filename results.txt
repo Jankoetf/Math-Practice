@@ -1,0 +1,33 @@
+rtp version: 0.86
+n_iterations: 1000000, rtp: 0.8664367999999838, volatility: 6.576990044967885
+
+rtp version: 0.87
+n_iterations: 1000000, rtp: 0.8687418999999876, volatility: 6.587009585630265
+
+rtp version: 0.88
+n_iterations: 1000000, rtp: 0.8706483999999932, volatility: 6.555033498280405
+
+rtp version: 0.89
+n_iterations: 1000000, rtp: 0.895684099999989, volatility: 6.653837763502195
+
+rtp version: 0.9
+n_iterations: 1000000, rtp: 0.9062128999999809, volatility: 6.728223310048084
+
+rtp version: 0.91
+n_iterations: 1000000, rtp: 0.9115353999999914, volatility: 6.744461686046369
+
+rtp version: 0.92
+n_iterations: 1000000, rtp: 0.9333271999999901, volatility: 6.8092586320201125
+
+rtp version: 0.93
+n_iterations: 1000000, rtp: 0.9283760999999883, volatility: 6.793057756780053
+
+rtp version: 0.94
+n_iterations: 1000000, rtp: 0.9365674999999953, volatility: 6.819350312745649
+
+rtp version: 0.95
+n_iterations: 1000000, rtp: 0.9480731999999917, volatility: 6.867392644042039
+
+rtp version: 0.96
+n_iterations: 1000000, rtp: 0.960699799999989, volatility: 6.8960532766416955
+
