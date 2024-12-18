@@ -7,7 +7,7 @@ Aviator game calculation and simulation with statistical tests
 
 <img src="Pictures/math.png" alt="Alt Text" width="712" height="256">
 
-🐍[Explained Math](https://github.com/Jankoetf/Math-Practice/blob/main/main.py)
+🐍[Explained Math](https://github.com/Jankoetf/Math-Practice/blob/main/aviator_class.py)
 
 - calculation algorithm
 
