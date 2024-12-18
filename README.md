@@ -13,7 +13,7 @@ Aviator game calculation and simulation with statistical tests
 
 <img src="Pictures/code.png" alt="Alt Text" width="800" height="180">
 
-- simulation and statistical tests
+## Simulation and statistical tests
 
 🐍[Tests](https://github.com/Jankoetf/Math-Practice/blob/main/StatisticalTests.xlsx)
 
